@@ -1,4 +1,4 @@
-# ByeDPI for Android
+-o1 -o25+s -T3 -At# ByeDPI for Android
 
 **English** | [Русский](README-ru.md)
 
